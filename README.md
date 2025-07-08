@@ -17,6 +17,16 @@ Quantum Bookstore is a simple Java-based console application that simulates a bo
 - Error handling for unavailable or unsellable books
 
 ---
-### Running Output
+## Output
 
-![Running Output](screenshots/screenshot1.png)
+```
+Quantum book store: Book added - Introduction to SQL
+Quantum book store: Book added - Introduction to java
+Quantum book store: Book added - Quantum Theory
+Quantum book store: Removing outdated book - Quantum Theory
+Quantum Book Store: Shipping PaperBook to mokkattam Cairo
+Quantum book store: Book purchased - Introduction to SQL, Total paid: 600.0
+Quantum book store: Sending EBook to ght7234@gmail.com
+Quantum book store: Book purchased - Introduction to java , Total paid: 450.0
+Quantum book store: Book not found
+```
